@@ -1,0 +1,33 @@
+[
+    {
+        "dni": "74997020",
+        "nombre": "Erika Zavala",
+        "fecha": "10-10-2022",
+        "monto_debido": 33,
+        "monto_haber":33
+    },
+
+    {
+        "dni": "74996010",
+        "nombre": "Claudia Romero",
+        "fecha": "10-10-2022",
+        "monto_debido": 60,
+        "monto_haber": 20
+    },
+
+    {
+        "dni": "74995005",
+        "nombre": "Junior Da Silva",
+        "fecha": "10-10-2022",
+        "monto_debido": 100,
+        "monto_haber": 50
+    },
+
+    {
+        "dni": "74994025",
+        "nombre": "Erick Zevallos",
+        "fecha": "10-10-2022",
+        "monto_debido": 30,
+        "monto_haber": 30
+    }  
+]
